@@ -1,0 +1,7 @@
+open UBUNTU>
+open terminal>type-
+#sudo grep -c "svm\|vmx" /proc/cpuinfo
+#sudo apt-get install qemu-kvm
+#sudoadduserrait
+#sudoadduserraitlibvirtd
+Open Virtual Machine Manager application and Create Virtual Machine for further steps reffer CC_final print.pdf
