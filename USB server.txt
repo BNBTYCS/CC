@@ -1,0 +1,6 @@
+open usb server>
+port apache: 8085>
+save> restart>
+general>local host>done
+
+
